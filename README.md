@@ -45,8 +45,8 @@ I build backend systems and full-stack applications, with a growing focus on dat
 
 ### 📈 GitHub Stats
 
-![Akash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashpandey0&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashpandey0&layout=compact&theme=radical)
+![Akash's GitHub stats](https://github-readme-stats-qgtq5qvfy-akash-7e4a.vercel.app/api?username=Akashpandey0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-qgtq5qvfy-akash-7e4a.vercel.app/api/top-langs/?username=Akashpandey0&layout=compact&theme=radical)
 
 ---
 

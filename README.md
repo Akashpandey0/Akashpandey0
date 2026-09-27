@@ -65,7 +65,7 @@ I build backend systems and full-stack applications, with a growing focus on dat
 
 Flight booking platform with JWT authentication, Stripe payment integration, and a custom database schema.
 
-`Java` `Spring Boot` `MySQL` `JWT` `Stripe API`
+`Java` `Spring Boot` `MySQL` `JWT` `RayzorPay API`
 
 🔗 [View Repository](https://github.com/Akashpandey0/FlightBookingSystem)
 </details>
